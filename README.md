@@ -1,7 +1,5 @@
 # road-accident-analytics
 
-# Road Accident Dashboard
-
 ## Requirement
 
 The client aims to create a Road Accident Dashboard for the years 2021 and 2022 to gain insights into the following requirements:
