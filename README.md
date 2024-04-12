@@ -1,5 +1,9 @@
 # road-accident-analytics
 
+## Introduction
+
+The Excel project aims to analyze and visualize casualty data to enhance understanding and decision-making in road safety management. Leveraging Microsoft Excel's powerful features, the project encompasses a comprehensive approach to exploring and interpreting casualty data.
+
 ## Requirement
 
 The client aims to create a Road Accident Dashboard for the years 2021 and 2022 to gain insights into the following requirements:
@@ -29,7 +33,7 @@ The client aims to create a Road Accident Dashboard for the years 2021 and 2022 
 - Public
 - Media
 
-## Rows
+## Column details
 
 - Accident_Index: Unique identifier for each accident.
 - Accident Date: Date of the accident.
@@ -88,3 +92,14 @@ To analyze and visualize the data effectively, the following steps were taken:
 - **Road Condition Analysis**: A pivot table was created to analyze casualties by road surface conditions. This data was visualized using a TreeMap, with appropriate customization.
 
 - **Light Condition Analysis**: Casualties were analyzed based on light conditions using calculated items to group them into light and dark conditions. This data was visualized using donut charts, with data label values formatted for clarity.
+
+- **Rural vs Urban Analysis**: A slicer was generated to include rural and urban categories. Another visual was created to include accident date using a timeline. Custom styles were applied to both visuals for better aesthetics.
+
+- **Yearly Comparison**: Pivot tables were created for each year, months and quarters, and a comparison of casualties was visualized using line charts.
+
+- **Connection with Other Pivot Tables**: All other pivot tables were connected by right-clicking on the visuals and selecting the appropriate options.
+
+## Conclusion
+
+Overall, the process facilitated a thorough exploration of casualty data, enabling stakeholders to gain valuable insights into factors influencing road accidents and casualties. The combination of slicers, pivot tables, and visualizations provided a comprehensive analysis framework, enhancing decision-making and strategy formulation in road safety management.
+
