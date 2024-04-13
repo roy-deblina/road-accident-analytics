@@ -102,4 +102,5 @@ To analyze and visualize the data effectively, the following steps were taken:
 ## Conclusion
 
 Overall, the process facilitated a thorough exploration of casualty data, enabling stakeholders to gain valuable insights into factors influencing road accidents and casualties. The combination of slicers, pivot tables, and visualizations provided a comprehensive analysis framework, enhancing decision-making and strategy formulation in road safety management.
+![roaddata](https://github.com/roy-deblina/road-accident-analytics/assets/164593876/fe09be63-8884-4e5d-969e-2cf7ca85d588)
 
